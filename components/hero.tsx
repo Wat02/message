@@ -9,7 +9,7 @@ function hero() {
         <div className="grid grid-cols-12 gap-1">
           <div className="col-span-12 text-center pt-[60%] md:pt-[10%] ">
             <h1 className="text-[30px] font-bold text-black pt-[0px] md:pt-[10%]">
-            Wanna come over and Netflix and chill?
+              Do you wanna go out with me?
             </h1>
             <div className="flex flex-row justify-center text-center pt-[12.2%] md:pt-[3px] pr-[65px]">
               <Link href="/yea">
