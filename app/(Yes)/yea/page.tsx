@@ -10,7 +10,7 @@ function Page() {
             <h1 className="text-[30px] text-black font-extrabold">Yayyy :3</h1>
             <h1 className="text-[25px] text-black font-extrabold pt-[10px]">
             You, me, Netflix ssee you soon, babe.{" "}<br />
-              <span className="text-pink-700 text-[30px]">Can't wait ❤️🤗</span>
+              <span className="text-pink-700 text-[30px]">Cant wait ❤️🤗</span>
               
             </h1>
           </div>
